@@ -1,0 +1,8 @@
+
+vscode:
+  extensions:
+    - esbenp.prettier-vscode
+    - dbaeumer.vscode-eslint
+    - CoenraadS.bracket-pair-colorizer
+    - formulahendry.auto-close-tag
+    - xabikos.JavaScriptSnippets
